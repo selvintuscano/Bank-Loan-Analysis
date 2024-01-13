@@ -21,6 +21,9 @@ To run the Tableau dashboard locally, follow these steps:
    ```bash
    git clone https://github.com/selvintuscano/BankLoanReportAnalysis.git
 
+
+## Run the Project   
+
 1. Navigate to the project directory:
    cd BankLoanReportAnalysis
 
@@ -35,6 +38,13 @@ To run the Tableau dashboard locally, follow these steps:
   tableau BankLoanReportAnalysis.twbx
 
 3.Explore the dashboard interactively and gain insights into the bank loan reports.
+
+## View My Tableau Public Profile
+
+[![Tableau Public Profile](https://img.shields.io/badge/Tableau%20Public-Profile-yellow.svg)](https://public.tableau.com/app/profile/selvin.tuscano)
+
+Check out my Tableau Public profile to explore more visualizations and projects.
+
 
 
 
